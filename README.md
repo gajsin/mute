@@ -12,6 +12,12 @@
 
 ---
 
+
+
+## 🎨 Project Presentation
+
+![Full Showcase](f_93069ba8cf1db17f.png)
+
 ## 📸 Screenshots
 
 | Upload | Processing | Results | Analytics | Settings |
