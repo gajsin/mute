@@ -18,13 +18,6 @@
 
 ![Full Showcase](f_93069ba8cf1db17f.png)
 
-## 📸 Screenshots
-
-| Upload | Processing | Results | Analytics | Settings |
-|:---:|:---:|:---:|:---:|:---:|
-| ![Upload](upload.png) | ![Processing](processing.png) | ![Results](results.png) | ![Analytics](analytics.png) | ![Settings](settings.png) |
-
----
 
 ## ✨ Key Features
 
