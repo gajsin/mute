@@ -73,27 +73,9 @@ SQLite-backed user management with session handling. Each user has their own wor
 
 ---
 
-## 🚀 Getting Started
+## 🔒 Source Code
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/gajsin/mute.git
-   cd mute
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Set up environment variables:
-   ```bash
-   cp .env.example .env
-   # Add your OpenAI API key
-   ```
-4. Run the development server:
-   ```bash
-   npm run dev
-   ```
-
+> **Note:** This repository serves as a portfolio showcase. The full source code is closed/commercial, but the architecture and implementation details can be reviewed upon request during technical interviews.
 ---
 
 ## 📄 License
